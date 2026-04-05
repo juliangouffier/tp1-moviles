@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Conversor de Moneda</string>
+    <string name="title_main">Conversor de Moneda</string>
+    <string name="label_dollars">Dólares:</string>
+    <string name="label_euros">Euros:</string>
+    <string name="label_conversion_value">Valor de conversión:</string>
+    <string name="radio_to_eur">Convertir a Euros.</string>
+    <string name="radio_to_usd">Convertir a Dólares.</string>
+    <string name="action_convert">Convertir</string>
+    <string name="action_change_rate">Cambiar valor</string>
+    <string name="rate_format">1$ = %1$s €</string>
+    <string name="dialog_change_rate_title">Tipo de cambio</string>
+    <string name="dialog_change_rate_message">¿Cuántos € equivalen a 1 $?</string>
+    <string name="hint_new_rate">p. ej. 0,92</string>
+    <string name="action_ok">Aceptar</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="error_empty_input">Introduce una cantidad.</string>
+    <string name="error_invalid_number">Introduce un número válido.</string>
+    <string name="error_negative_amount">La cantidad no puede ser negativa.</string>
+    <string name="error_empty_rate">Introduce un tipo de cambio.</string>
+    <string name="error_invalid_rate">Introduce un tipo de cambio válido.</string>
+    <string name="error_non_positive_rate">El tipo de cambio debe ser mayor que cero.</string>
+</resources>
